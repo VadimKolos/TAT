@@ -1,0 +1,7 @@
+D:\cworkspace\Argi\Argi\bin\Debug\Argi.exe.config
+D:\cworkspace\Argi\Argi\bin\Debug\Argi.exe
+D:\cworkspace\Argi\Argi\bin\Debug\Argi.pdb
+D:\cworkspace\Argi\Argi\obj\Debug\Argi.csprojAssemblyReference.cache
+D:\cworkspace\Argi\Argi\obj\Debug\Argi.csproj.CoreCompileInputs.cache
+D:\cworkspace\Argi\Argi\obj\Debug\Argi.exe
+D:\cworkspace\Argi\Argi\obj\Debug\Argi.pdb
